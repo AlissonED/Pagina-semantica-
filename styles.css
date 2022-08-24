@@ -1,12 +1,14 @@
 article{
     text-align: center;
     background-color: aqua;
+    font-size: 150%;
 }
 figure{
     background-color: blueviolet;
 }
 section{
     background-color: brown;
+    font-size: 150%;
 }
 header{
     background-color: blanchedalmond;
